@@ -1,17 +1,17 @@
 # AEP-BayesMAR
-The main code and datasets in Zhengwei Liu &amp; Fukang Zhu (2024+). Asymmetric exponential power Bayesian median autoregression with applications, submited to JSCS
+The main code and datasets in Zhengwei Liu &amp; Fukang Zhu (2024+). Asymmetric exponential power Bayesian median autoregression with applications, submitted to JSCS
 
 8-Lasso-1.py: The code of AEP-BayesMAR(8) (Lasso prior with $\omega_k=1$)
 
 8-Normal-1.py: The code of AEP-BayesMAR(8) (Normal prior with $\omega_k=1$)
 
-AEP-A1-BMA-step1.py: The code of Bayesian model averaging for 1-step-ahead forecsting based on AEP-BayesMAR
+AEP-A1-BMA-step1.py: The code of Bayesian model averaging for 1-step-ahead forecasting based on AEP-BayesMAR
 
 AEP-Lasso-5.py: The code of AEP-BayesMAR(2) (Lasso prior with $\omega_k=5$)
 
 AEP-Normal-5.py: The code of AEP-BayesMAR(2) (Normal prior with $\omega_k=5$)
 
-AR-A1-BMA-step1.py: The code of Bayesian model averaging for 1-step-ahead forecsting based on BayesAR
+AR-A1-BMA-step1.py: The code of Bayesian model averaging for 1-step-ahead forecasting based on BayesAR
 
 WAIC-Normal-5-AR(1).py: The code comparing AEP-BayesMAR(1) and BayesMAR(1) in empirical applications (Normal prior with $\omega_k=5$)
 
