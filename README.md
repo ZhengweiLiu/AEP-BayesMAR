@@ -1,5 +1,5 @@
 # AEP-BayesMAR
-The main code and datasets in Zhengwei Liu &amp; Fukang Zhu (2024+). Asymmetric exponential power Bayesian median autoregression with applications, submitted to JSCS
+The main code and datasets in Liu, Z., and Zhu, F. (2024). Asymmetric exponential power Bayesian median autoregression with applications. Journal of Statistical Computation and Simulation, 94(9), 2063-2086. https://doi.org/10.1080/00949655.2024.2314616
 
 8-Lasso-1.py: The code of AEP-BayesMAR(8) (Lasso prior with $\omega_k=1$)
 
